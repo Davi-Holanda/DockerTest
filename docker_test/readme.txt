@@ -1,0 +1,2 @@
+- Métrica (runtime, memória gasta, tempo de conexão)
+- Testes (testes de borda, testes 'errados', testes padrão, usuários testando o sistema)
